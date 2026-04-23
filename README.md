@@ -10,6 +10,8 @@ Switch between AI coding tools freely — your memory stays with you.
 
 ---
 
+![ViMemory Dashboard](VIMEMORY_DASHBOARD.png)
+
 ## 为什么选择 ViMemory？ / Why ViMemory?
 
 ### 1. 极致轻量 / Ultra Lightweight
